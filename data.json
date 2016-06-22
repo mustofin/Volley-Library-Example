@@ -1,4 +1,9 @@
-{  
+[  
+      {  
+         "id":"1",
+         "name":"belal",
+         "email":"belal@mail.com"
+      },
       {  
          "id":"3",
          "name":"sunny",
@@ -14,5 +19,4 @@
          "name":"test1",
          "email":"ashwinpatil19@gmail.com"
       }
-   
-}
+   ]
